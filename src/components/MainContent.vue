@@ -41,7 +41,7 @@ setEmoji();
         <h3>Who I am</h3>
         <ul>
           <li>Undergrad</li>
-          <li>Based out of Denver, Colorado, USA</li>
+          <li>Based out of Mumbai, India</li>
           <li>Loves
             <span class="emoji">{{ emoji }}</span>
           </li>
