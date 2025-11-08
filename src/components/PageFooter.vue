@@ -7,11 +7,10 @@
       </a>
       |
       <a href="https://www.linkedin.com/in/swayamshahh/" target="_blank">
-        <FontAwesomeIcon :icon="['fab', 'square-linkedin']" />
+        <FontAwesomeIcon :icon="['fab', 'square-linkedin']" style="color: #000000" />
       </a>
       |
-      <a href="github.com/Sonu0305" target="_blank">
-      </a>
+      <a href="github.com/Sonu0305" target="_blank"> </a>
       |
     </p>
   </footer>
