@@ -10,7 +10,7 @@
         <FontAwesomeIcon :icon="['fab', 'square-linkedin']" style="color: #000000" />
       </a>
       |
-      <a href="github.com/Sonu0305" target="_blank">
+      <a href="https://github.com/Sonu0305" target="_blank">
         <FontAwesomeIcon :icon="['fab', 'github']" style="color: #000000" />
       </a>
       |
