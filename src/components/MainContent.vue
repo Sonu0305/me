@@ -40,7 +40,7 @@ setEmoji();
       <section>
         <h3>Who I am</h3>
         <ul>
-          <li>Husband and father</li>
+          <li>Undergrad</li>
           <li>Based out of Denver, Colorado, USA</li>
           <li>Loves
             <span class="emoji">{{ emoji }}</span>
