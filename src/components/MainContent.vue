@@ -56,7 +56,7 @@ setEmoji();
           <li>AI-ML Explorer</li>
         </ul>
 
-        <a download href="https://pdfhost.io/v/Bpk8RkXcn2_Swayam_Shah">Download my
+        <a download href="https://pdfhost.io/v/Wf3DwfZhh4_Swayam_Shah">Download my
           resume here</a>
       </section>
     </div>
@@ -69,7 +69,7 @@ setEmoji();
   --position--body: relative;
   --position--footer: relative;
   --position--header: relative;
-  --color--primary: var(--green);
+  --color--primary: var(--black);
   --color--text: var(--grey);
 }
 </style>
