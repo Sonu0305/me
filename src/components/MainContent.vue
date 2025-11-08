@@ -73,9 +73,9 @@ setEmoji()
   --color--text: var(--grey);
 }
 .resume-qr {
-  width: 30px;
-  height: 30px;
-  margin-left: 6px;
+  width: 33px;
+  height: 33px;
+  margin-left: 5px;
   vertical-align: middle;
 }
 </style>
