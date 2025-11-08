@@ -74,4 +74,10 @@ setEmoji()
   --color--primary: var(--green);
   --color--text: var(--grey);
 }
+.resume-qr {
+  width: 24px;
+  height: 24px;
+  margin-left: 8px;
+  vertical-align: middle;
+}
 </style>
