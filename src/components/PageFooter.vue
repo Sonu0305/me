@@ -13,6 +13,10 @@
       <a href="github.com/Sonu0305" target="_blank">
         <FontAwesomeIcon :icon="byPrefixAndName.fab['github']" />
       </a>
+      |
+      <a href="tel:+918291602906" target="_blank">
+        <FontAwesomeIcon :icon="byPrefixAndName.fas['phone']" />
+      </a>
     </p>
   </footer>
 </template>
