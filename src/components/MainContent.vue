@@ -51,9 +51,9 @@ setEmoji();
       <section>
         <h3>What I do</h3>
         <ul>
-          <li>Engineering Leadership</li>
-          <li>Full-Stack Engineering</li>
-          <li>UX/UI Design</li>
+          <li>GenAI Enthusiast</li>
+          <li>Full-Stack Developer</li>
+          <li>AI-ML Explorer</li>
         </ul>
 
         <a download href="https://docs.google.com/document/d/1BY0XK_BWa9bADw-Ao3kFedLsXGs2rcny2AYamFkEl-A/export?format=pdf">Download my
