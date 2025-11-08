@@ -56,10 +56,8 @@ setEmoji()
           <li>AI-ML Explorer</li>
         </ul>
 
-        <a download href="https://pdfhost.io/v/Wf3DwfZhh4_Swayam_Shah"
-          >Download my resume here
-          <img src="../../public/png.png" alt="QR Code" class="resume-qr" />
-        </a>
+        <a download href="https://pdfhost.io/v/Wf3DwfZhh4_Swayam_Shah">Download my resume here </a>
+        <img src="../../public/png.png" alt="QR Code" class="resume-qr" />
       </section>
     </div>
   </main>
