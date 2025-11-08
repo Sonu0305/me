@@ -8,6 +8,7 @@
       |
       <a href="https://www.linkedin.com/in/swayamshahh/" target="_blank">
         <FontAwesomeIcon :icon="['fab', 'square-linkedin']" />
+      </a>
       |
       <a href="github.com/Sonu0305" target="_blank">
         <FontAwesomeIcon :icon="byPrefixAndName.fab['github']" />
