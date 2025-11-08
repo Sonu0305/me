@@ -56,7 +56,7 @@ setEmoji();
           <li>AI-ML Explorer</li>
         </ul>
 
-        <a download href="https://docs.google.com/document/d/1BY0XK_BWa9bADw-Ao3kFedLsXGs2rcny2AYamFkEl-A/export?format=pdf">Download my
+        <a download href="https://pdfhost.io/v/Bpk8RkXcn2_Swayam_Shah">Download my
           resume here</a>
       </section>
     </div>
