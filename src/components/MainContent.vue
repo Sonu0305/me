@@ -1,39 +1,37 @@
 <script lang="ts" setup>
-import {ref, type Ref} from "vue";
+import { ref, type Ref } from 'vue'
 
-const emoji: Ref = ref("");
+const emoji: Ref = ref('')
 
 const emojis: Array<string> = [
-  "🎹",
-  "🍕",
-  "🤖",
-  "🍣",
-  "🐶",
-  "🌭",
-  "🕹",
-  "🏍",
-  "🌮",
-  "🦕",
-  "🍺",
-  "🎵",
-  "💰",
-  "🎃",
-  "⛺",
-  "🍔"
-];
+  '🎹',
+  '🍕',
+  '🤖',
+  '🍣',
+  '🐶',
+  '🌭',
+  '🕹',
+  '🏍',
+  '🌮',
+  '🦕',
+  '🍺',
+  '🎵',
+  '💰',
+  '🎃',
+  '⛺',
+  '🍔'
+]
 
-const setEmoji = ()=>{
-  emoji.value = emojis[Math.floor(Math.random() * emojis.length)];
+const setEmoji = () => {
+  emoji.value = emojis[Math.floor(Math.random() * emojis.length)]
 }
 
-setInterval(setEmoji, 2500);
-setEmoji();
-
+setInterval(setEmoji, 2500)
+setEmoji()
 </script>
 
 <template>
-  <main id="home"
-        class="main">
+  <main id="home" class="main">
     <div class="main__content">
       <h1>Swayam Shah</h1>
 
@@ -42,7 +40,8 @@ setEmoji();
         <ul>
           <li>Undergrad</li>
           <li>Based out of Mumbai, India</li>
-          <li>Loves
+          <li>
+            Loves
             <span class="emoji">{{ emoji }}</span>
           </li>
         </ul>
@@ -56,8 +55,9 @@ setEmoji();
           <li>AI-ML Explorer</li>
         </ul>
 
-        <a download href="https://pdfhost.io/v/Wf3DwfZhh4_Swayam_Shah">Download my
-          resume here</a>
+        <a download href="https://pdfhost.io/v/Wf3DwfZhh4_Swayam_Shah"
+          >Download my resume here <img src="public/png.png" alt="QR Code" class="resume-qr" />
+        </a>
       </section>
     </div>
   </main>
