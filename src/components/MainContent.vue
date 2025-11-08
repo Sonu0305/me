@@ -19,7 +19,8 @@ const emojis: Array<string> = [
   '💰',
   '🎃',
   '⛺',
-  '🍔'
+  '🍔',
+  '🎸'
 ]
 
 const setEmoji = () => {
@@ -56,7 +57,8 @@ setEmoji()
         </ul>
 
         <a download href="https://pdfhost.io/v/Wf3DwfZhh4_Swayam_Shah"
-          >Download my resume here <img src="../../public/png.png" alt="QR Code" class="resume-qr" />
+          >Download my resume here
+          <img src="../../public/png.png" alt="QR Code" class="resume-qr" />
         </a>
       </section>
     </div>
