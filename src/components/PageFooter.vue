@@ -5,7 +5,7 @@
       <a href="mailto:swayamshah66@gmail.com" target="_blank">swayamshah66@gmail.com </a> |
       <a href="https://www.linkedin.com/in/swayamshahh/" target="_blank">
         <FontAwesomeIcon :icon="['fab', 'square-linkedin']" />
-        https://www.linkedin.com/in/swayamshahh/
+        swayamshahh
       </a>
     </p>
   </footer>
