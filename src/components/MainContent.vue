@@ -69,7 +69,7 @@ setEmoji();
   --position--body: relative;
   --position--footer: relative;
   --position--header: relative;
-  --color--primary: var(--black);
+  --color--primary: var(--green);
   --color--text: var(--grey);
 }
 </style>
