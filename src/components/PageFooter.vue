@@ -3,7 +3,7 @@
     <p>
       © Swayam Shah |
       <a href="mailto:swayamshah66@gmail.com" target="_blank">
-        <FontAwesomeIcon :icon="['fas', 'envelope']" />
+        <FontAwesomeIcon :icon="['fas', 'envelope']" style="color: #000000" />
       </a>
       |
       <a href="https://www.linkedin.com/in/swayamshahh/" target="_blank">
@@ -11,12 +11,8 @@
       </a>
       |
       <a href="github.com/Sonu0305" target="_blank">
-        <FontAwesomeIcon :icon="byPrefixAndName.fab['github']" />
       </a>
       |
-      <a href="tel:+918291602906" target="_blank">
-        <FontAwesomeIcon :icon="byPrefixAndName.fas['phone']" />
-      </a>
     </p>
   </footer>
 </template>
