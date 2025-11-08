@@ -1,0 +1,14 @@
+.app,
+#app {
+  background-color: var(--color--background);
+  color: var(--color--text);
+  position: relative;
+  transition: all 0.25s ease-in-out;
+  flex-shrink: 1;
+  align-content: center;
+
+  a {
+    color: var(--color--primary);
+    transition: all 0.25s ease-in-out;
+  }
+}
